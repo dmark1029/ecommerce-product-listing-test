@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "install": "npm install --legacy-peer-deps --force",
+    "install": "npm install",
     "dev": "next dev",
     "build": "next build",
     "json-server": "json-server --watch db.json --port 5000",
     "lint": "next lint",
     "start": "next start",
-    "dev:install": "npm run install && npm run dev",
-    "build:install": "npm run install && npm run build"
+    "dev": "npm run dev",
+    "build:install": "npm run install --legacy-peer-deps && npm run build"
   }
 
   "dependencies": {
