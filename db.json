@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product Name 1",
+      "description": "Product description",
+      "price": 99.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/040137ccfbd091fbcd1fa30b9400b7d4-p_e.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Product2",
+      "description": "description2",
+      "price": 19.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/93d4d8c64fb612a7b978aa3ce530527a-p_e.jpg",
+      "rating": 2.8
+    },
+    {
+      "id": 3,
+      "title": "kitchen3",
+      "description": "description3",
+      "price": 80.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/f46a7d2515b7f15860b22feb11aff634-p_e.jpg",
+      "rating": 3.8
+    },
+    {
+      "id": 4,
+      "title": "Product Name 4",
+      "description": "description4",
+      "price": 149.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/a2b3a490e956464a6b976cf8ca5eb611-p_e.jpg",
+      "rating": 1.8
+    },
+    {
+      "id": 5,
+      "title": "Product Name 5",
+      "description": "description5",
+      "price": 115.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/cc599396b748cf96169cfc7f119ff37d-p_e.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "title": "Product Name 6",
+      "description": "window6",
+      "price": 49.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/441239a59007f019814ee014fdfef927-p_e.jpg",
+      "rating": 2.8
+    },
+    {
+      "id": 7,
+      "title": "Product Name 7",
+      "description": "bedroom7",
+      "price": 74.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/8e31578513806965dbd44680e3f4a6af-p_e.jpg",
+      "rating": 3.8
+    },
+    {
+      "id": 8,
+      "title": "Product Name 8",
+      "description": "real estate",
+      "price": 45.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/4974f8b184bf738fd316cc13716491a8-p_e.jpg",
+      "rating": 3.8
+    },
+    {
+      "id": 9,
+      "title": "Product Name 9",
+      "description": "floor",
+      "price": 42.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/db6dacc219091c480fd4953b3f591501-p_e.jpg",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "title": "Product Name 10",
+      "description": "kitchen",
+      "price": 69.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/a44fe99488bc93d374525285150138ba-p_e.jpg",
+      "rating": 3.8
+    },
+    {
+      "id": 11,
+      "title": "Product Name 11",
+      "description": "living room",
+      "price": 119.99,
+      "currency": "USD",
+      "image": "https://photos.zillowstatic.com/fp/0274521a40ea34b728b6fa8409c190e3-p_e.jpg",
+      "rating": 1.8
+    }
+  ]
+}
