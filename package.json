@@ -10,7 +10,7 @@
     "json-server": "json-server --watch db.json --port 5000",
     "test": "jest",
     "install": "npm install --legacy-peer-deps",
-    "build:install": "npm install --legacy-peer-deps && npm run build",
+    "build:install": "npm install --legacy-peer-deps && npm run build"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.1",
